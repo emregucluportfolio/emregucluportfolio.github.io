@@ -1,7 +1,10 @@
 ![Jekyll Lens](https://i.imgur.com/Qi7gdQC.png)
 
+updated.
+
 # Lens
-*A Jekyll website  for photographers and photo bloggers.*
+
+_A Jekyll website for photographers and photo bloggers._
 
 **Lens** is a photo gallery [Jekyll](https://jekyllrb.com/) theme designed
 specially for photographers and photo bloggers.
@@ -11,8 +14,8 @@ generate the website and [GitHub Pages](https://pages.github.com) to host it.
 
 ## Features
 
-  ✅ Free & Easy setup  
-  ✅ No coding required  
+✅ Free & Easy setup  
+ ✅ No coding required
 
 You won't need any expensive server, just to host a photo blog. You don't
 even need to code anything. Just follow the steps below to setup your photo blog
@@ -39,18 +42,21 @@ in minutes.
 1.  Now, visit your website and see the magic! 🎉
 
 > If you liked this project, please ⭐ **Star** this repository to show your
->  love.
+> love.
 
 #### Have any questions?
+
 If you have a bug or an idea, feel free to open a [new issue](https://github.com/ElasticDesigns/jekyll-lens/issues/new).
 
 #### Want to contribute?
+
 If you want to contribute, make your changes or enhancements and [open a
 pull request](https://github.com/ElasticDesigns/jekyll-lens/compare).
 
 > Feedback and bug reports are not only welcome, but strongly encouraged. 😄
 
 ### Credits
+
 The HTML5 version of Lens template is designed by [HTML5UP](https://html5up.net/lens).
 A special thanks to them for the design, which I further enhanced for use with
 Jekyll.
